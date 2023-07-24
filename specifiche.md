@@ -1,6 +1,5 @@
 # Specifiche di Progetto
 
-## Software di un negozio di prodotti vegani
 Questo progetto consiste nel realizzare un software per la gestione di un negozio di prodotti vegani.
 Il software deve avere le seguenti funzionalità:
 - Registrare nuovi prodotti, con nome, quantità, prezzo di vendita e prezzo di acquisto.
@@ -11,7 +10,7 @@ Il software deve avere le seguenti funzionalità:
 
 Il software è testuale, quindi utilizzabile da riga di comando.
 
-### NOTE
+## NOTE
 - Cerca di scrivere del buon codice organizzandolo le varie funzionalità in apposite funzioni.
 - Prima di scrivere il codice, pensa a quali sono le migliori strutture dati da utilizzare: liste, tuple, dizionari, o combinazioni di esse come liste di dizionari.
 - Il programma deve essere persistente, cioè le informazioni inserite dall'utente devono essere mantenute tra diverse esecuzioni del programma, per fare questo puoi utilizzare un file di testo scegliendo tu che tipo di codifica utilizzare per le informazioni.
