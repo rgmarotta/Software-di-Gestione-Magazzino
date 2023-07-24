@@ -10,7 +10,8 @@ Il software deve avere le seguenti funzionalità:
 
 Il software è testuale, quindi utilizzabile da riga di comando.
 
-## NOTE
+## NOTE
+
 - Cerca di scrivere del buon codice organizzandolo le varie funzionalità in apposite funzioni.
 - Prima di scrivere il codice, pensa a quali sono le migliori strutture dati da utilizzare: liste, tuple, dizionari, o combinazioni di esse come liste di dizionari.
 - Il programma deve essere persistente, cioè le informazioni inserite dall'utente devono essere mantenute tra diverse esecuzioni del programma, per fare questo puoi utilizzare un file di testo scegliendo tu che tipo di codifica utilizzare per le informazioni.
@@ -38,7 +39,7 @@ Prezzo di vendita: **1.40** <br/>
 AGGIUNTO: 20 X latte di soia <br/>
 <br/>
 Inserisci un comando: **aggiungi** <br/>
-Nome del prodotto: **tofu* *<br/>
+Nome del prodotto: **tofu** *<br/>
 Quantità: **10** <br/>
 Prezzo di acquisto: **2.20** <br/>
 Prezzo di vendita: **4.19** <br/>
@@ -65,8 +66,8 @@ Nome del prodotto: **tofu** <br/>
 Quantità: **2** <br/>
 Aggiungere un altro prodotto ? (si/no): **no** <br/>
 VENDITA REGISTRATA <br/>
- - 5 X latte di soia: €1.40 <br/>
- - 2 X tofu: €4.19 <br/>
+5 X latte di soia: €1.40 <br/>
+2 X tofu: €4.19 <br/>
 
 Totale: €15.38 <br/>
 <br/>
@@ -81,7 +82,7 @@ Nome del prodotto: **seitan** <br/>
 Quantità: **5** <br/>
 Aggiungere un altro prodotto ? (si/no): **no** <br/>
 VENDITA REGISTRATA <br/>
- - 5 X seitan: €5.49 <br/>
+5 X seitan: €5.49 <br/>
 
 Totale: €27.45 <br/>
 <br/>
